@@ -1,0 +1,13 @@
+html {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.search {
+  border-style: solid;
+  border-color: #000;
+  background-color: #fff;
+}
