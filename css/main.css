@@ -11,3 +11,11 @@ header {
   border-color: #000;
   background-color: #fff;
 }
+
+img {
+  width: 100%;
+}
+
+.logo {
+  max-width: 200px;
+}
